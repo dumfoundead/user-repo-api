@@ -3,9 +3,11 @@
 }
 
 body {
-  background-image: url("github-bg.jpg");
-  background-repeat: no-repeat;
   background-attachment: fixed;
+  background-image: url("github-bg.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container {
